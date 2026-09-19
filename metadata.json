@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page de Bolos",
+  "description": "Landing page sofisticada de bolos artesanais com cardápio interativo, montador personalizado de bolos, calculadora de fatias para festas e encomendas diretas via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
